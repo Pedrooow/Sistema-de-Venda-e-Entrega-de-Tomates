@@ -1,0 +1,17 @@
+{
+    "name": "cliente/tomate-graphql",
+    "autoload": {
+        "psr-4": {
+            "Cliente\\TomateGraphql\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pedro Collares",
+            "email": "Pedro.Collares.Xavier@gmail.com"
+        }
+    ],
+    "require": {
+        "webonyx/graphql-php": "^15.20"
+    }
+}
