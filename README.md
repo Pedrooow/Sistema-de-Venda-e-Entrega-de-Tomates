@@ -19,7 +19,7 @@ Arquivo: `preco.php`
 Deve estar na pasta htdocs do xampp ou outro servidor equivalente
 
 #### Endpoint:
-http://localhost:8000
+http://localhost:8000](http://localhost/web3/tomate-graphql/index.php
 
 #### Exemplo de requisição GraphQL:
 curl -X POST http://localhost/web3/tomate-graphql/index.php ^
