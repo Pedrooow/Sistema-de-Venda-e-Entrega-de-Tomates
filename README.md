@@ -2,6 +2,8 @@
 
 Este projeto é composto por **três serviços integrados**, usando GraphQL com PHP e REST com Spring Boot, para simular a venda de caixas de tomates e cálculo de frete, com regras comerciais aplicadas em um mashup.
 
+Esse projeto foi desenvolvido pelo aluno Pedro Collares Xavier, que optou por fazer sozinho
+
 ## 🔧 Tecnologias usadas
 
 - **PHP + GraphQL (web3)** → Serviço 1: Preço do Tomate
@@ -17,7 +19,7 @@ Arquivo: `preco.php`
 Deve estar na pasta htdocs do xampp ou outro servidor equivalente
 
 #### Endpoint:
-http://localhost:8000
+http://localhost:8000](http://localhost/web3/tomate-graphql/index.php
 
 #### Exemplo de requisição GraphQL:
 curl -X POST http://localhost/web3/tomate-graphql/index.php ^
